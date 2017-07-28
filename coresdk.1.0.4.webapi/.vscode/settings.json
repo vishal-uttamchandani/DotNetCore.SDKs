@@ -10,5 +10,9 @@
     "editor.fontLigatures": true,
     "editor.fontFamily": "Monaco, Consolas, 'Courier New'",
     "editor.mouseWheelZoom": true,
-    "editor.letterSpacing": 1
+    "editor.letterSpacing": 1,
+     "emmet.syntaxProfiles": {
+        "vue-html": "html",
+        "vue": "html"
+    }
 }
